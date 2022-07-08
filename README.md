@@ -6,14 +6,24 @@
 <br>
 
 -Danielle
+
 -Mayume
+
 -Pedro
+
 -Emerson
+
 -Amir
+
 -Vitória
+
 -Marcelo
+
 -Victor
+
 -Maycon
+
 -Igor
+
 -Alisson
 
