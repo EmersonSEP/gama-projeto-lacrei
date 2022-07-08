@@ -13,7 +13,6 @@ export default function Home(){
           <h2>Lacrei Saúde</h2>
           <h4>Está precisando cuidar da saúde? Encontre os profissionais capacitades a ouvir o que você tem a dizer, com respeito e segurança!</h4>
 
-
           <main className="container col p-5">
           <div className="row_botton">
             <div className="button_start2">
