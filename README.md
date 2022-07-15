@@ -6,7 +6,7 @@
 
 <h3>Exercício Hands On da Gama Academy</h3>
 <br>
-<p>Nesse desafio teremos de ajudar uma ONG a construir uma plataforma digital com os pilares em tecnologia, segurança e privacidade, tendo o orgulho da pluralidade e da nossa comunidade LGBTQIAPN+ tornado a Lacrei uma plataforma digital segura, inclusiva e acolhedora. <br>
+<p>Nesse desafio teremos de ajudar uma ONG a construir um formulario de cadastro para a plataforma digital com os pilares em tecnologia, segurança e privacidade, tendo o orgulho da pluralidade e da nossa comunidade LGBTQIAPN+ tornado a Lacrei uma plataforma digital segura, inclusiva e acolhedora. <br>
 	Membros do grupo: </p>
 <br>
 
